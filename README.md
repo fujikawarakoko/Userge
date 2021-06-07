@@ -1,6 +1,7 @@
+![Fujikawara Userbot Logo](https://telegra.ph/file/110d923a17ebc6746b1ba.jpg)
+
 <p align="center">
     <a href="https://github.com/UsergeTeam/Userge">
-        <img src="resources/userge.png" alt="Userge">
     </a>
     <br>
     <b>Pluggable Telegram UserBot</b>
